@@ -29,7 +29,7 @@ Welcome to the project repository! Here's how the team will collaborate on this 
 
 ### 3. **Integrate Backend**
 
-Ensure that the frontend integrates smoothly with the backend functionalities provided. Review the backend's basic template and functionalities that need to be supported.
+Ensure that the frontend integrates smoothly with the backend functionalities provided. Review the backend's basic template that i am attching here.
 
 ### 4. **Commit and Push**
 
